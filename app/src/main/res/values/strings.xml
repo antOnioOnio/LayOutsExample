@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string-array name="estados">
+        <item>Casado</item>
+        <item>Soltero</item>
+        <item>Novios</item>
+        <item>Viudo</item>
+    </string-array>
+
+    <string-array name="Cargos">
+        <item>Millonario</item>
+        <item>Trabajando</item>
+        <item>dos cargos</item>
+        <item>tres cargos</item>
+
+    </string-array>
+
+
+</resources>
+
+

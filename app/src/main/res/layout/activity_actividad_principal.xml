@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActividadPrincipal">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Comenzar"
+        android:id="@+id/boton_comenzar"
+        android:layout_gravity="center"/>
+
+    <ImageView
+        android:id="@+id/imagen_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top|center"
+        android:src="@drawable/fondo"
+        android:scaleType="centerCrop" />
+
+</FrameLayout>
